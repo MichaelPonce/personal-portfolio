@@ -7,8 +7,8 @@ demo: // https://frontendcrm.vercel.app/
 src: //github.com/michaelponce/frontendcrm
 
 info:
-  idea: The main objective was to allow having a Login Linked to Firebase, which provides greater security. In addition, it allows you to have control of the sales made or the deliveries of pending products.
-  tech: [Javascript, Next, Tailwind]
+  idea: The main objective was to allow having a Login Linked to MongoDB, which provides greater security. In addition, it allows you to have control of the sales made or the deliveries of pending products.
+  tech: [Javascript, NextJs, TailwindCSS]
 ---
 
 ## 

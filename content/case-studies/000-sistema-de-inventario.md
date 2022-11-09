@@ -11,5 +11,5 @@ src: //github.com/michaelponce/SistemaDeInventario
 info:
   idea:
     The main idea of Sistema de Inventario is to provide a system that can use for improve the registry of information.
-  tech: [.Net, Firebase, C#]
+  tech: [.Net, Firebase, Visual Basic]
 ---
